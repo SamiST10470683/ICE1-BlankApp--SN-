@@ -20,7 +20,7 @@ These are the steps I successfully completed before my environment failed:
 
 It was during this final editing stage that the environment failed, preventing me from saving the final changes or running the application.
 
-## Screenshot of Working App
+## Screenshots of Working App
 
 ![WhatsApp Image 2025-07-30 at 5 28 16 PM](https://github.com/user-attachments/assets/e21776cf-4861-4464-b99d-2af5c6e99881)
 ![WhatsApp Image 2025-07-31 at 7 09 11 PM](https://github.com/user-attachments/assets/8e748604-5d12-4069-a3a0-81fc0c386002)
