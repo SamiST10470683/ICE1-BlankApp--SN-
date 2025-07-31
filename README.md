@@ -20,6 +20,28 @@ These are the steps I successfully completed before my environment failed:
 
 It was during this final editing stage that the environment failed, preventing me from saving the final changes or running the application.
 
+## Full App Code
+import { StatusBar } from 'expo-status-bar';
+import { StyleSheet, Text, View } from 'react-native';
+
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <Text>Sami El Naamani</Text>
+      <StatusBar style="auto" />
+    </View>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#555',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
+
 ## Screenshots of Working App
 
 ![WhatsApp Image 2025-07-30 at 5 28 16 PM](https://github.com/user-attachments/assets/e21776cf-4861-4464-b99d-2af5c6e99881)
